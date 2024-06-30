@@ -12,7 +12,7 @@
 
  🌱 I’m currently a Network Engineering graduate. <br>
  💼 Working as an Network Specialist at MAS Holdings. <br>
- 👀 I’m also interested in Programming, Web development, Ethical Hacking and AI. <br>
+ 👀 I’m also interested in Cloud Computing, Ethical Hacking and Programing. <br>
  ⚡ Fun fact: I love  music and gaming. <br>
   
 <br>
