@@ -29,7 +29,7 @@
     <a href="https://www.hackerrank.com/isuruadhikari2">
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     </a> <br>
-    <a href="https://blog.isuru.xyz/](https://issaadhi.weebly.com/">
+    <a href= "https://issaadhi.weebly.com/">
       <img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=blogger&logoColor=white">
     </a>
     
